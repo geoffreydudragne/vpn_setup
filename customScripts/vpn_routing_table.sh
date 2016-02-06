@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 source vpn_constants.sh
 source vpn_util.sh
 

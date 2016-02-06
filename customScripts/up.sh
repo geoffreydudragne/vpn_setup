@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "running the  up script for my custom configurations"
 cd /etc/openvpn/customScripts
 
